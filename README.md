@@ -71,7 +71,7 @@ A Tableau dashboard will include:
 ---
 
 ## 📑 Dataset
-- Source: [NYC TLC Trip Record Data](https://www.nyc.gov/assets/tlc/pages/tlc-trip-record-data)  
+- Source: [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)  
 - Contains records of yellow/green taxi trips including timestamps, locations, passenger counts, and fares.
 
 ---
