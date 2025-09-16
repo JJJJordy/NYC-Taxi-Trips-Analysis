@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS / VSCode
+.DS_Store
+.vscode/
+
+# Data: keep processed small outputs, ignore raw
+data/raw/
+data/**/*.tmp
+data/**/*.log
+
+# Ignore very large processed files
+data/processed/*.parquet
